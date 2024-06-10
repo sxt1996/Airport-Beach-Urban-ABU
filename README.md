@@ -1,7 +1,7 @@
 # ABU
 This data set, named Airport-Beach-Urban (ABU), was manually cropped after being downloaded from the AVIRIS website. There are 13 images in total, and the corresponding scenes include airports, beaches, and urban areas. For the images used in experiments, the bands heavily disturbed by noise have been removed. 
 # Detailed information and Illustrations of Land Cover Distributions and Ground-Truth
-![image](https://github.com/sxt1996/Data-sets-for-Hyperspectral-Detection-ABU/assets/55687887/24e87ac7-259a-418e-9b16-aa167e82bbfc)
+![image](https://github.com/sxt1996/Data-sets-for-Hyperspectral-Detection-ABU/assets/55687887/37600e63-5fb2-4497-95d2-b7de42f9068b)
 
 ![image](https://github.com/sxt1996/Data-sets-for-Hyperspectral-Detection-ABU/assets/55687887/58ae9d29-df8a-41d0-b780-5cda56f9eaa4)
 ![image](https://github.com/sxt1996/Data-sets-for-Hyperspectral-Detection-ABU/assets/55687887/e3187646-92fe-47d9-9e3c-493021c5fb10)
